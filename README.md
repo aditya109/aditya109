@@ -3,7 +3,7 @@
 </em></p> 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daitya961?color=1da1f2&logo=Twitter&style=flat-square">
 
-- 🔭 I’m currently working on upgrade **v1.2** of [bank-reconciliation-statement-validator](https://github.com/aditya109/bank-reconcilation-statement-validator)
+- 🔭 I’m currently working on [hound.io-**pre-alpha-release**](https://github.com/aditya109/hound.io)
 - 🌱 I’m currently learning Azure DevOps
 
 - 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS
