@@ -12,7 +12,7 @@
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
-<img height="35" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/spring-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/gopher.svg" /><img height="35" src="https://cdn.svgporn.com/logos/python.svg" />
+<img height="35" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/spring-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/python.svg" />
 
 <img height="35" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/firebase.svg" />
 
