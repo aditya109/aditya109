@@ -32,10 +32,8 @@
 <h2 style="text-align: center;">Show some ❤ by ⭐ my repos:</h2>
 
 [![git-osp-for-beginners](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=git-osp-for-beginners&show_icons=true&theme=synthwave)](https://github.com/aditya109/git-osp-for-beginners)
-[![qrcode-generator-app](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=qrcode-generator-app&show_icons=true&theme=synthwave)](https://github.com/aditya109/qrcode-generator-app)
 [![Upgrade Controller](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=upgrade-controller&show_icons=true&theme=synthwave)](https://github.com/aditya109/upgrade-controller)
-[![Goodreads API Project](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=goodreads-api-project&show_icons=true&theme=synthwave)](https://github.com/aditya109/goodreads-api-project)
-[![Python Advance Concepts](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=python-adv-concepts&show_icons=true&theme=synthwave)](https://github.com/aditya109/python-adv-concepts)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
