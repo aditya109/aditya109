@@ -1,6 +1,6 @@
 <h1> Hi, I'm Aditya! <img height="50"  src="https://media.giphy.com/media/lTMEqFHbSAHsOIB3te/giphy.gif"/></h1> 
 
-<img align='right' src="https://media.giphy.com/media/2YaMsGWSpHQ7sIsiYZ/giphy.gif" width="235">
+<img align='right' src="https://media.giphy.com/media/2YaMsGWSpHQ7sIsiYZ/giphy.gif" width="235"> ![](https://komarev.com/ghpvc/?aditya109)
 </em></p> 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daitya961?color=1da1f2&logo=Twitter&style=flat-square">
 
