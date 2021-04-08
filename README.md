@@ -32,6 +32,7 @@
 <h2 style="text-align: center;">Show some ❤ by ⭐ my repos:</h2>
 
 [![git-osp-for-beginners](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=git-osp-for-beginners&show_icons=true&theme=synthwave)](https://github.com/aditya109/git-osp-for-beginners)
+[![distributed-computation-with-grpc-and-rest](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=distributed-computation-with-grpc-and-rest&show_icons=true&theme=synthwave)](https://github.com/aditya109/distributed-computation-with-grpc-and-rest)
 [![Upgrade Controller](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=upgrade-controller&show_icons=true&theme=synthwave)](https://github.com/aditya109/upgrade-controller)
 
 
