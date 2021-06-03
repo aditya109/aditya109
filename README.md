@@ -12,17 +12,17 @@
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
-<img height="35" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/spring-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/python.svg" />
+<img height="35" width="35" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/spring-icon.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/python.svg" />
 
-<img height="35" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/firebase.svg" />
+<img height="35" width="35" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/firebase.svg" />
 
-<img height="35" src="https://cdn.svgporn.com/logos/react.svg" />
+<img height="35" width="35" src="https://cdn.svgporn.com/logos/react.svg" />
 
-<img height="35" src="https://cdn.svgporn.com/logos/kubernetes.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/travis-ci.svg">
+<img height="35" width="35" src="https://cdn.svgporn.com/logos/kubernetes.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/travis-ci.svg">
 
 <h2>Tools and IDE ʕ•́ᴥ•̀ʔっ♡</h2>
 
-<img height="35" src="https://cdn.svgporn.com/logos/pycharm.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />&nbsp;&nbsp;<img height="35" src="https://cdn.svgporn.com/logos/webstorm.svg" />
+<img height="35" width="35" src="https://cdn.svgporn.com/logos/pycharm.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />&nbsp;&nbsp;<img height="35" width="35" src="https://cdn.svgporn.com/logos/webstorm.svg" />
 
 <h2>Stats and Stuff (´・ω・`)</h2>
 
