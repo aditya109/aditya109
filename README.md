@@ -26,14 +26,10 @@
 
 <h2>Stats and Stuff (´・ω・`)</h2>
 
-![Aditya's github stats](https://github-readme-stats-theta-eight.vercel.app/api?username=aditya109&show_icons=true&theme=synthwave) 
-[![Top Langs](https://github-readme-stats-theta-eight.vercel.app/api/top-langs/?username=aditya109&layout=compact&theme=synthwave)](https://github.com/aditya109/github-readme-stats)
+![](https://github.com/aditya109/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/aditya109/github-stats/blob/master/generated/languages.svg)
 
-<h2 style="text-align: center;">Show some ❤ by ⭐ my repos:</h2>
 
-[![git-osp-for-beginners](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=git-osp-for-beginners&show_icons=true&theme=synthwave)](https://github.com/aditya109/git-osp-for-beginners)
-[![distributed-computation-with-grpc-and-rest](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=distributed-computation-with-grpc-and-rest&show_icons=true&theme=synthwave)](https://github.com/aditya109/distributed-computation-with-grpc-and-rest)
-[![Upgrade Controller](https://github-readme-stats-theta-eight.vercel.app/api/pin/?username=aditya109&repo=upgrade-controller&show_icons=true&theme=synthwave)](https://github.com/aditya109/upgrade-controller)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
