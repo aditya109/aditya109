@@ -12,9 +12,9 @@
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
-<img height="45" width="45" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/spring-icon.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/python.svg" />
+<img height="45" width="45" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/python.svg" />
 
-<img height="45" width="45" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/mongodb.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/firebase.svg" />
+<img height="45" width="45" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/mysql.svg" />
 
 <img height="45" width="45" src="https://cdn.svgporn.com/logos/react.svg" />
 
@@ -28,9 +28,6 @@
 
 ![](https://github.com/aditya109/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/aditya109/github-stats/blob/master/generated/languages.svg)
-
-
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
