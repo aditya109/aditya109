@@ -4,10 +4,11 @@
 </em></p> 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/daitya961?color=1da1f2&logo=Twitter&style=flat-square">
 
+<!-- 
 - 🔭 I’m currently working on [hound.io-**pre-alpha-release**](https://github.com/aditya109/hound.io).
-- 📚 I'm currently learning C# and AngularJS.
-- 💬 Ask me about anything related to Flask, Java EE, ReactJS or NodeJS.
-- 😄 Pronouns: He/His
+-->
+- 📚 I'm working with Golang.
+- 💬 Ask me about anything related to Golang, Dotnet, Flask, Java EE, ReactJS.
 - ✨ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and watching **Anime**. 	(°▽°)/
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
