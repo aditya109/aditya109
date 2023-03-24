@@ -13,11 +13,9 @@
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
 
-<img height="45" width="45" src="https://cdn.svgporn.com/logos/dotnet.svg"/>&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/python.svg" />
+<img height="45" width="45" src="https://cdn.svgporn.com/logos/gopher.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/python.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/ansible.svg"/>
 
-<img height="45" width="45" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/mysql.svg" />
-
-<img height="45" width="45" src="https://cdn.svgporn.com/logos/react.svg" />
+<img height="45" width="45" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/mysql.svg" />&nbsp;&nbsp;<img height="45" src="https://cdn.svgporn.com/logos/mongodb.svg" />
 
 <img height="45" width="45" src="https://cdn.svgporn.com/logos/kubernetes.svg" />&nbsp;&nbsp;<img height="45" width="45" src="https://cdn.svgporn.com/logos/travis-ci.svg">
 
