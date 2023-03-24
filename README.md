@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [hound.io-**pre-alpha-release**](https://github.com/aditya109/hound.io).
 -->
 - 📚 I'm working with Golang.
-- 💬 Ask me about anything related to Golang, C# .NET Core, Flask, ReactJS, Docker, Kubernetes.
+- 💬 Ask me about anything related to Golang, Python, Ansible, Docker and Kubernetes.
 - ✨ Fun fact: Loves to listen to horror stories while coding and playing **tactical FPS** and watching **Anime**. 	(°▽°)/
 
 <h2>My Tech Stack  ¯\_(ツ)_/¯</h2>
